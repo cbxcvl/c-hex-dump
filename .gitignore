@@ -1,0 +1,8 @@
+# Compiled programs and object files
+/hexview
+/main
+/mainF
+/argc
+/arv
+*.o
+*.out
